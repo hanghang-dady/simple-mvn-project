@@ -17,3 +17,5 @@ the "Deliver" stage of your Pipeline.
 new test
 
 构建测试-test-branch
+
+default_branch
